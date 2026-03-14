@@ -4,7 +4,7 @@ Lead Data Scientist with 10+ years of experience applying advanced analytics, ma
 
 🔍 Areas of Interest
 
-• Machine Learning for business decision systems
+• Machine Learning/Advance Analytics for business decision systems
 • Customer analytics and churn modeling
 • Natural Language Processing and text analytics
 • Generative AI applications and Retrieval-Augmented Generation (RAG)
